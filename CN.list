@@ -2,6 +2,7 @@ USER-AGENT,MicroMessenger Client*
 USER-AGENT,WeChat*
 
 # douyin
+DOMAIN-SUFFIX,alikunlun.com
 DOMAIN-SUFFIX,snssdk.com
 DOMAIN-SUFFIX,ixigua.com
 DOMAIN-SUFFIX,pstatp.com
